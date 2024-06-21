@@ -1,1 +1,1 @@
-# -
+模型的权重文件在mater中，保存下来，并将接口文件classify.py中的相应地址checkpoint_path改为它即可。测试数据可自行设置，在img_dir填入地址。
